@@ -1,0 +1,47 @@
+# Slipper Zero
+
+**Slipper Zero** is a lightweight embedded toolkit inspired by the Flipper Zero, developed as a collaborative academic project. It features wireless signal analysis, IR/NFC communication, and GPIO-based automation using ESP32.
+
+---
+
+## 🔧 Features
+
+- 📡 Sub-GHz RF signal capture and replay
+- 🔌 GPIO control interface
+- 🔒 Basic NFC tag detection
+- 🖥️ Serial interface with live debug output
+- 🔋 Low-power embedded design
+
+---
+
+## 💡 My Contributions
+
+This project was developed as part of a team of 3 students. I personally contributed:
+
+- Implemented the Sub-GHz RF signal handling logic
+- Interfaced IR receiver and created decoding routines
+- Integrated I2C communication with OLED display for feedback
+- Debugged GPIO output handling with custom button logic
+
+---
+
+## 🛠️ Technologies Used
+
+- ESP32 DevKitC
+- C/C++ (ESP-IDF / Arduino)
+- I2C (OLED, RTC), SPI (RF Module)
+- Git for version control
+
+---
+
+## 📁 Repository
+
+Original team repo: [github.com/himucodes/slipper-zero](https://github.com/himucodes/slipper-zero)
+
+My fork: [github.com/your-username/slipper-zero](https://github.com/your-username/slipper-zero)
+
+---
+
+## 📚 License
+
+MIT License
